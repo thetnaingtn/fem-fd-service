@@ -34,3 +34,8 @@ go.work.sum
 
 # env file
 .env
+
+# Terraform
+*.tfplan
+.terraform
+overrides.txt
